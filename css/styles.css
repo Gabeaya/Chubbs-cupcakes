@@ -1,0 +1,13 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+.best {
+  width: 150%;
+  color: gold;
+  font-weight: bold;
+
+}
+.align {
+  text-align:center;
+}
